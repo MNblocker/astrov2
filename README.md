@@ -1,3 +1,5 @@
-# DONT USE THIS FOR NOW! #
-<p>Currently I messed up the code (im so stupid) Ima re do it!</p>
-<H1>Love jaycuh😘</H1>
+# UPDATED/ NEW HUD LAYOUT! #
+
+<H1>GUYS I MADE A BEW HUD IM SMARTNESS</H1>
+<p>Ima CHECKER IT OUT <a href="https://mnblocker.github.io/astrov2/)https://mnblocker.github.io/astrov2/">HERE</a>
+</p>
